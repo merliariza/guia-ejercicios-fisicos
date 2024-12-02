@@ -12,3 +12,7 @@ Los ejercicios de entrenamiento funcional se centran en movimientos que imitan a
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza ejercicios como sentadillas, flexiones, y levantamientos con pesas.
 3. Realiza entre 3-5 series con 8-12 repeticiones por ejercicio.
+
+## Consejos
+- Concéntrate en el control de los movimientos y la técnica.
+- Utiliza poco peso al principio para aprender la forma correcta.
