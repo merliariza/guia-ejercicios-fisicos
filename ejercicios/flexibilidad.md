@@ -9,3 +9,7 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 - Aumenta la circulación sanguínea.
 - Promueve la relajación muscular.
 
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza estiramientos dinámicos al inicio de la sesión y estiramientos estáticos al final.
+3. Mantén cada estiramiento de 20-30 segundos.
