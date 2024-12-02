@@ -14,3 +14,7 @@ Los ejercicios de fuerza trabajan los músculos a través de cargas progresivas,
 2. Realiza series de 8-12 repeticiones por ejercicio, ajustando el peso de acuerdo a tu capacidad.
 3. Realiza entre 3-5 series por ejercicio.
 4. Termina con estiramientos para evitar lesiones.
+
+## Consejos
+- Aumenta el peso de forma gradual.
+- Mantén la forma adecuada durante todo el ejercicio para evitar lesiones.
