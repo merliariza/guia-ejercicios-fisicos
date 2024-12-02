@@ -12,3 +12,7 @@ La natación es un ejercicio de bajo impacto que trabaja todos los grupos muscul
 1. Comienza con un calentamiento suave en el agua.
 2. Nada a un ritmo moderado durante 30-45 minutos, alternando estilos (crol, pecho, espalda).
 3. Termina con un enfriamiento y estiramientos fuera del agua.
+
+## Consejos
+- Mantén una respiración constante y controlada.
+- Utiliza gafas de natación para proteger tus ojos del cloro.
