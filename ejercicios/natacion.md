@@ -7,3 +7,8 @@ La natación es un ejercicio de bajo impacto que trabaja todos los grupos muscul
 - Trabaja todos los grupos musculares de manera suave.
 - Mejora la capacidad cardiovascular y respiratoria.
 - Es ideal para personas con problemas articulares.
+
+## Instrucciones
+1. Comienza con un calentamiento suave en el agua.
+2. Nada a un ritmo moderado durante 30-45 minutos, alternando estilos (crol, pecho, espalda).
+3. Termina con un enfriamiento y estiramientos fuera del agua.
