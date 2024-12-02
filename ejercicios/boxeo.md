@@ -12,3 +12,7 @@ El boxeo es un ejercicio que mejora la coordinación, la resistencia y la fuerza
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza combinaciones de golpes en el saco de boxeo o con guantes.
 3. Realiza rondas de 2-3 minutos, con 1 minuto de descanso entre ellas.
+
+## Consejos
+- Mantén los puños cerrados y la postura correcta para evitar lesiones.
+- Escucha tu cuerpo y no sobreexijas los músculos.
